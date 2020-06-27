@@ -1,0 +1,9 @@
+.vscode
+.idea
+mall-common/target
+mall-mbg/target
+mall-security/target
+mall-demo/target
+mall-admin/target
+mall-search/target
+mall-portal/target
